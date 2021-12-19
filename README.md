@@ -16,3 +16,4 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkkss2003&show_icons=true&theme=dracula
