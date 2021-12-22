@@ -50,5 +50,5 @@
 
 ## 📱 Devices in use
 ![Redmi Note9](https://img.shields.io/badge/Redmi%20Note%209-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Redmi 10X](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Google Pixel](https://img.shields.io/badge/Google%20Pixel%203-4285f4?style=flat-square&logo=google&logoColor=ffffff)
+![Redmi 10X](https://img.shields.io/badge/Redmi%2010X-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Google Pixel](https://img.shields.io/badge/Google%20Pixel-4285f4?style=flat-square&logo=google&logoColor=ffffff)
