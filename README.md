@@ -42,13 +42,13 @@
 [![E-Mail](https://img.shields.io/badge/-hkkss2003@qq.com-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:hkkss2003@qq.com)
 
 ## 💾 Working environment
-![Windows 10](https://img.shields.io/badge/Windows%2010%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS](https://img.shields.io/badge/Wear%20OS%20-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
 
 ## 📱 Devices in use
-![Redmi Note9](https://img.shields.io/badge/Xiaomi%20Mi%2010%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Redmi Note9](https://img.shields.io/badge/Redmi%20Note%209-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Redmi 10X](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Google Pixel](https://img.shields.io/badge/Google%20Pixel%203-4285f4?style=flat-square&logo=google&logoColor=ffffff)
