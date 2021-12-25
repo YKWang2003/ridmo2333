@@ -1,5 +1,5 @@
 ## &#x1f4c8; GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkkss2003&show_icons=true&theme=dracula)
+![HKKSS2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkkss2003&show_icons=true&theme=dracula)
 
 # 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
