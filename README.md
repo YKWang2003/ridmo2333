@@ -42,10 +42,10 @@
 [![E-Mail](https://img.shields.io/badge/-ridmo2333@gmail.com-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:ridmo2333@gmail.com)
 
 ## 💾 Working environment
-![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android 11](https://img.shields.io/badge/Android%2010-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS](https://img.shields.io/badge/Wear%20OS%20-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
 
 ## 📱 Devices in use
