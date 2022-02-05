@@ -36,7 +36,7 @@
 
 ## 📫 Get in touch
 
-[![Twitter](https://img.shields.io/twitter/follow/Ridmo2333?color=1ca0f1&label=%40hkkss2003&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/ridmo2333)
+[![Twitter](https://img.shields.io/twitter/follow/Ridmo2333?color=1ca0f1&label=%40Ridmo2333&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/ridmo2333)
 [![Personal Blog](https://img.shields.io/badge/-https://www.hicool.icu/-4d4d4d?style=flat-square&logo=Bloglovin&logoColor=fff)](https://www.hicool.icu)
 [![Telegram](https://img.shields.io/badge/-t.me/Ridmo2333-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/ridmo2333)
 [![E-Mail](https://img.shields.io/badge/-ridmo2333@gmail.com-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:ridmo2333@gmail.com)
